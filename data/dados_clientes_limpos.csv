@@ -1,0 +1,1001 @@
+cliente_id;data_registro;idade;genero;localizacao;plano;metodo_pagamento;qtd_meses_assinatura
+1;2024-07-08;63;F;Costela;Premium;Boleto;27
+2;2022-11-13;28;F;Cirino;Básico;PayPal;6
+3;2021-09-19;27;M;Fernandes;Premium;Cartão de Crédito;30
+4;2021-11-15;47;M;Gonçalves de da Rosa;Standard;Boleto;28
+5;2022-04-08;50;F;Aparecida de Goiás;Básico;Boleto;35
+6;2024-07-03;68;M;Gomes;Standard;Cartão de Crédito;16
+7;2024-01-20;43;F;Montenegro da Mata;Básico;Boleto;32
+8;2022-04-10;26;F;Mendonça;Básico;PayPal;12
+9;2023-11-15;27;F;Pinto das Flores;Premium;PayPal;31
+10;2021-10-08;22;F;da Mata de Freitas;Standard;Cartão de Crédito;19
+11;2022-11-27;38;F;das Neves do Amparo;Básico;PayPal;10
+12;2023-08-18;48;F;Monteiro;Premium;PayPal;4
+13;2023-01-03;26;F;Pinto da Praia;Standard;PayPal;6
+14;2021-08-23;48;M;Carvalho;Standard;Boleto;20
+15;2022-03-16;20;F;Andrade;Básico;PayPal;5
+16;2024-04-30;21;F;Sá;Premium;PayPal;7
+17;2023-07-20;29;F;Alves;Premium;Boleto;12
+18;2022-05-07;67;M;Moura;Premium;Cartão de Crédito;1
+19;2024-01-09;45;F;Alves;Standard;PayPal;16
+20;2023-08-25;56;M;Azevedo;Standard;Cartão de Crédito;26
+21;2023-09-27;64;M;Araújo de da Costa;Básico;PayPal;16
+22;2022-09-18;28;F;Teixeira;Standard;Cartão de Crédito;35
+23;2023-07-09;66;F;Ramos do Oeste;Premium;Cartão de Crédito;16
+24;2021-08-23;28;M;Pacheco;Básico;Cartão de Crédito;30
+25;2022-12-18;52;M;Peixoto;Premium;PayPal;14
+26;2024-03-04;22;F;Souza;Premium;Boleto;16
+27;2023-12-10;40;M;Nascimento;Standard;Cartão de Crédito;2
+28;2024-05-17;34;M;Sales Grande;Standard;Boleto;7
+29;2024-01-24;44;M;Lima;Standard;Cartão de Crédito;33
+30;2024-06-21;21;F;Sousa do Campo;Standard;Cartão de Crédito;33
+31;2022-12-14;58;M;Teixeira Paulista;Premium;Cartão de Crédito;26
+32;2023-06-09;31;F;Pires Paulista;Básico;Boleto;33
+33;2024-01-31;33;M;Nunes de Minas;Básico;Boleto;8
+34;2022-11-22;49;F;Cirino de Cavalcanti;Standard;Boleto;29
+35;2022-11-15;65;F;Brito de Pereira;Básico;PayPal;11
+36;2022-02-13;36;F;Guerra de Almeida;Básico;Cartão de Crédito;29
+37;2022-01-09;25;M;Mendonça;Standard;PayPal;32
+38;2023-11-17;43;M;Dias do Amparo;Premium;Boleto;2
+39;2021-11-09;27;F;Araújo de Ramos;Premium;Cartão de Crédito;29
+40;2022-04-18;26;F;Rodrigues do Galho;Básico;Boleto;36
+41;2021-09-16;50;F;Aparecida de Santos;Premium;Boleto;18
+42;2023-07-14;28;F;Nogueira da Prata;Standard;Boleto;1
+43;2023-06-22;50;F;Silveira;Premium;Cartão de Crédito;34
+44;2022-06-14;24;F;Rios do Sul;Standard;PayPal;27
+45;2022-08-10;60;M;Nascimento do Norte;Standard;Cartão de Crédito;15
+46;2021-10-15;59;M;Rodrigues de Nogueira;Premium;Cartão de Crédito;4
+47;2022-03-07;52;M;Sá de Viana;Premium;PayPal;11
+48;2024-06-07;24;F;Barbosa da Prata;Standard;PayPal;33
+49;2022-07-25;43;F;Pimenta;Standard;Cartão de Crédito;20
+50;2022-09-12;27;M;Moraes;Standard;PayPal;2
+51;2021-09-07;25;F;Castro do Amparo;Premium;PayPal;33
+52;2021-10-01;65;F;Porto;Standard;Cartão de Crédito;3
+53;2023-08-13;43;F;Cirino do Sul;Básico;Cartão de Crédito;35
+54;2022-03-05;45;M;Azevedo do Norte;Básico;Cartão de Crédito;27
+55;2022-09-29;43;M;Carvalho;Básico;PayPal;1
+56;2023-11-30;48;F;Viana;Básico;PayPal;2
+57;2022-10-22;24;F;Fogaça;Standard;PayPal;34
+58;2023-12-28;26;M;Souza da Mata;Básico;Cartão de Crédito;16
+59;2023-07-10;37;M;Abreu;Básico;Boleto;22
+60;2022-11-22;56;M;Ribeiro;Premium;PayPal;14
+61;2022-02-15;70;F;Sales das Flores;Standard;Cartão de Crédito;25
+62;2021-08-04;41;M;Sampaio;Standard;Cartão de Crédito;4
+63;2023-10-31;26;M;da Rocha de Sousa;Básico;Boleto;20
+64;2023-05-16;27;F;Rocha de Aragão;Standard;Boleto;2
+65;2021-10-19;41;F;Novais de Machado;Básico;PayPal;27
+66;2022-09-19;68;M;Siqueira do Norte;Básico;PayPal;4
+67;2021-11-27;65;F;da Conceição das Flores;Standard;PayPal;26
+68;2022-04-08;19;F;da Cunha;Standard;PayPal;21
+69;2023-07-10;37;F;Borges;Premium;PayPal;7
+70;2024-01-31;60;M;da Rosa;Básico;PayPal;17
+71;2022-06-26;48;M;Rios das Flores;Básico;Cartão de Crédito;17
+72;2022-12-12;53;F;Machado do Amparo;Premium;Cartão de Crédito;27
+73;2023-05-27;68;M;da Rosa;Standard;Boleto;19
+74;2022-11-12;35;F;Rocha;Standard;Boleto;22
+75;2022-06-08;51;F;da Rocha;Standard;PayPal;16
+76;2021-08-01;42;F;da Paz de Minas;Premium;Boleto;17
+77;2021-11-27;35;F;Cunha do Norte;Standard;Cartão de Crédito;3
+78;2021-11-24;55;M;Andrade;Standard;PayPal;30
+79;2024-03-20;54;M;Barros;Básico;PayPal;7
+80;2023-01-16;22;F;da Rosa Grande;Básico;Cartão de Crédito;23
+81;2021-08-17;63;F;Melo;Premium;Boleto;34
+82;2022-01-20;50;F;Guerra de Guerra;Premium;Cartão de Crédito;23
+83;2023-02-14;61;F;da Cruz Verde;Standard;Cartão de Crédito;7
+84;2024-05-11;42;F;Santos Verde;Básico;Cartão de Crédito;28
+85;2022-09-26;28;F;Garcia das Flores;Standard;Boleto;14
+86;2023-01-15;57;M;Silveira;Standard;Cartão de Crédito;28
+87;2023-01-20;61;M;Caldeira das Flores;Standard;PayPal;20
+88;2024-03-21;30;M;Cirino Alegre;Standard;PayPal;19
+89;2022-12-16;40;F;Gonçalves das Flores;Básico;PayPal;29
+90;2021-10-11;52;F;Garcia;Premium;PayPal;7
+91;2023-04-29;60;F;Pimenta;Básico;Cartão de Crédito;30
+92;2021-08-07;42;F;Siqueira;Standard;PayPal;14
+93;2022-05-31;47;M;Novais;Básico;PayPal;17
+94;2022-12-06;46;F;Rios do Galho;Básico;Cartão de Crédito;36
+95;2024-01-21;29;M;Ramos;Básico;PayPal;11
+96;2024-04-14;54;M;Freitas de Minas;Standard;Cartão de Crédito;4
+97;2022-01-15;37;M;Moura;Standard;Boleto;23
+98;2022-10-05;68;M;da Mota;Básico;PayPal;18
+99;2022-11-11;25;F;da Paz;Básico;Cartão de Crédito;22
+100;2023-08-13;48;M;Souza das Pedras;Premium;Boleto;27
+101;2021-10-14;67;F;Ferreira;Básico;Cartão de Crédito;9
+102;2021-09-12;31;F;Vargas de Minas;Premium;Cartão de Crédito;11
+103;2022-11-06;46;M;Novaes;Standard;Boleto;31
+104;2024-06-22;43;M;Viana do Campo;Básico;Cartão de Crédito;18
+105;2021-09-09;63;M;Sales;Standard;Cartão de Crédito;1
+106;2022-06-16;25;M;Brito do Norte;Básico;Boleto;27
+107;2022-02-23;67;M;Fogaça da Mata;Básico;Boleto;34
+108;2023-03-12;69;F;Fonseca;Premium;PayPal;20
+109;2022-12-26;27;M;Fernandes do Campo;Premium;Cartão de Crédito;15
+110;2022-05-07;25;F;Caldeira;Básico;Cartão de Crédito;10
+111;2023-04-15;59;M;Sá;Premium;Cartão de Crédito;30
+112;2021-12-30;19;M;Novais;Básico;Boleto;29
+113;2021-10-30;33;M;Costela Verde;Premium;Boleto;1
+114;2024-03-04;59;F;Aragão;Básico;Cartão de Crédito;9
+115;2024-04-22;31;M;Albuquerque;Premium;Boleto;31
+116;2021-11-04;50;F;da Paz de Goiás;Básico;Boleto;15
+117;2021-10-11;54;F;Carvalho;Premium;Boleto;22
+118;2024-04-08;25;F;Cassiano;Premium;Cartão de Crédito;17
+119;2022-08-23;47;M;Jesus;Premium;Cartão de Crédito;19
+120;2023-10-28;43;M;Fonseca do Norte;Premium;Boleto;22
+121;2022-11-24;24;F;Sá de Pires;Básico;Cartão de Crédito;7
+122;2023-01-05;61;F;Novaes das Pedras;Premium;Cartão de Crédito;25
+123;2022-01-25;45;F;Moura;Premium;PayPal;27
+124;2023-08-20;42;M;Rodrigues;Premium;Boleto;10
+125;2022-06-07;64;M;Leão;Premium;Boleto;28
+126;2023-09-25;50;M;da Mota;Premium;Cartão de Crédito;33
+127;2021-08-20;55;F;Almeida da Serra;Premium;Boleto;7
+128;2023-05-26;41;M;Aparecida;Premium;Cartão de Crédito;30
+129;2021-10-19;60;F;Garcia das Pedras;Básico;PayPal;28
+130;2024-05-26;50;F;Pires do Campo;Básico;Cartão de Crédito;10
+131;2022-04-25;26;F;Azevedo da Serra;Standard;Cartão de Crédito;36
+132;2023-12-17;18;F;Barros;Premium;PayPal;14
+133;2024-02-14;55;F;Novaes;Premium;Boleto;10
+134;2021-11-26;37;F;da Rosa;Premium;PayPal;33
+135;2022-08-26;43;M;Costela da Serra;Standard;PayPal;20
+136;2023-02-22;54;F;Araújo;Premium;Boleto;32
+137;2023-10-30;32;M;Costela;Básico;PayPal;25
+138;2022-09-21;32;F;Moraes de Marques;Básico;Cartão de Crédito;10
+139;2024-01-07;30;M;Azevedo;Básico;Cartão de Crédito;5
+140;2024-01-26;54;M;da Costa de Pires;Standard;PayPal;13
+141;2021-11-28;69;F;da Conceição Grande;Básico;Boleto;21
+142;2023-12-01;53;M;Oliveira;Básico;PayPal;29
+143;2023-04-15;53;M;Melo;Premium;PayPal;12
+144;2023-03-30;20;F;Porto;Standard;Boleto;26
+145;2022-08-15;50;F;Cirino da Serra;Básico;Cartão de Crédito;16
+146;2022-09-22;58;M;Leão da Prata;Premium;PayPal;2
+147;2024-04-09;46;M;Pimenta de Goiás;Standard;PayPal;11
+148;2024-06-20;31;M;Novaes dos Dourados;Premium;Cartão de Crédito;25
+149;2023-04-19;60;M;Brito;Básico;Cartão de Crédito;3
+150;2022-11-14;57;M;Dias do Galho;Básico;Cartão de Crédito;30
+151;2023-05-12;46;F;Castro;Básico;PayPal;3
+152;2023-08-19;42;F;Pimenta;Premium;PayPal;14
+153;2022-07-02;45;M;Pacheco;Premium;PayPal;24
+154;2022-06-07;53;F;Andrade;Básico;Boleto;4
+155;2023-11-22;58;F;Pinto Paulista;Básico;Boleto;28
+156;2021-11-26;29;F;Abreu;Standard;Cartão de Crédito;19
+157;2024-03-22;38;F;Rocha;Standard;PayPal;25
+158;2022-11-08;28;F;Moraes;Standard;Cartão de Crédito;23
+159;2024-01-21;22;F;da Cunha;Premium;PayPal;25
+160;2023-03-31;59;F;da Rosa do Amparo;Standard;PayPal;23
+161;2021-11-06;29;F;Moraes do Campo;Básico;PayPal;19
+162;2023-09-28;56;M;Gonçalves de da Luz;Standard;PayPal;9
+163;2022-01-12;53;F;Freitas;Básico;Boleto;28
+164;2021-10-10;56;M;Alves;Standard;Boleto;27
+165;2023-10-30;21;M;Pimenta dos Dourados;Premium;Boleto;19
+166;2022-01-21;52;M;Aragão de Minas;Básico;PayPal;27
+167;2022-08-19;65;F;da Rosa;Básico;Cartão de Crédito;30
+168;2022-09-25;66;F;Moreira;Premium;PayPal;14
+169;2024-04-22;46;M;Peixoto;Standard;PayPal;18
+170;2023-12-30;28;M;Siqueira de Minas;Standard;Boleto;3
+171;2024-06-08;45;M;Gomes;Básico;PayPal;2
+172;2023-09-06;21;F;Melo;Premium;Boleto;32
+173;2023-01-22;41;F;Marques;Básico;PayPal;19
+174;2024-07-03;41;F;Camargo da Mata;Standard;PayPal;2
+175;2023-03-15;39;F;das Neves;Standard;Boleto;15
+176;2023-05-03;22;F;Viana de Minas;Básico;PayPal;16
+177;2021-12-15;54;M;Sousa;Básico;Boleto;36
+178;2021-10-08;67;M;Fonseca das Pedras;Standard;PayPal;1
+179;2024-07-09;61;F;Carvalho;Premium;PayPal;8
+180;2023-02-13;32;M;Mendes de Goiás;Standard;PayPal;10
+181;2022-09-25;31;M;da Cunha;Standard;PayPal;27
+182;2023-05-29;22;F;Marques Verde;Básico;Boleto;30
+183;2021-12-14;27;M;da Rosa;Standard;Boleto;20
+184;2022-02-03;57;F;Teixeira;Premium;Boleto;16
+185;2021-12-13;21;F;Fernandes do Norte;Básico;PayPal;9
+186;2022-02-03;26;F;Gonçalves de da Costa;Básico;Boleto;23
+187;2021-07-21;50;M;Siqueira dos Dourados;Básico;Cartão de Crédito;31
+188;2022-03-19;31;M;Porto da Serra;Básico;Cartão de Crédito;29
+189;2022-09-10;60;F;Ramos;Standard;PayPal;22
+190;2022-07-01;52;M;Ribeiro de Goiás;Premium;PayPal;14
+191;2023-02-09;54;F;Moura;Básico;PayPal;30
+192;2023-10-30;56;F;Rocha;Premium;Boleto;14
+193;2023-03-09;43;F;Vargas de Minas;Básico;Boleto;16
+194;2023-12-28;34;M;Mendonça do Amparo;Básico;Boleto;30
+195;2024-05-13;66;F;Sales das Pedras;Standard;Cartão de Crédito;20
+196;2024-01-03;23;F;Ramos da Prata;Standard;PayPal;29
+197;2023-05-05;66;M;da Paz;Standard;PayPal;21
+198;2021-12-28;37;M;Mendes;Premium;Cartão de Crédito;2
+199;2022-05-30;70;F;Moura;Standard;Cartão de Crédito;34
+200;2022-09-03;53;F;Ribeiro de Casa Grande;Básico;PayPal;2
+201;2022-12-03;33;F;Duarte;Standard;Cartão de Crédito;25
+202;2021-07-22;69;F;Nogueira;Premium;PayPal;20
+203;2023-05-17;34;F;Brito;Básico;PayPal;28
+204;2023-07-08;39;M;da Conceição Alegre;Premium;PayPal;10
+205;2024-04-28;41;F;Marques;Premium;PayPal;29
+206;2021-10-14;50;F;Ramos;Premium;Cartão de Crédito;15
+207;2022-02-12;49;M;Pimenta;Premium;Cartão de Crédito;23
+208;2023-12-19;48;M;Vargas;Básico;Boleto;11
+209;2022-02-20;30;F;Cirino;Básico;Boleto;25
+210;2021-08-15;18;F;Andrade do Campo;Básico;PayPal;3
+211;2022-12-15;40;F;Ramos;Premium;Cartão de Crédito;16
+212;2022-08-16;19;F;Rocha da Mata;Premium;PayPal;4
+213;2024-04-23;22;F;Pimenta;Básico;Boleto;30
+214;2022-07-10;42;F;Rocha dos Dourados;Standard;Boleto;7
+215;2022-08-12;36;F;Costela;Premium;PayPal;30
+216;2024-05-09;35;M;Fernandes;Standard;Cartão de Crédito;3
+217;2023-10-12;51;F;Fernandes Grande;Standard;PayPal;13
+218;2023-12-19;28;M;Souza de Casa Grande;Básico;Cartão de Crédito;3
+219;2023-08-29;38;M;Sá;Standard;PayPal;12
+220;2024-05-03;62;F;Moreira do Oeste;Premium;Boleto;3
+221;2022-01-12;35;F;Jesus;Básico;PayPal;29
+222;2023-07-15;22;F;Gonçalves dos Dourados;Básico;Cartão de Crédito;29
+223;2021-09-10;52;F;Fernandes do Amparo;Básico;PayPal;12
+224;2022-11-15;49;M;Camargo;Premium;Boleto;23
+225;2024-05-24;61;M;Lopes de Nogueira;Standard;Boleto;23
+226;2023-08-09;39;M;Pereira de Aparecida;Básico;Boleto;9
+227;2024-02-25;58;M;Vieira do Amparo;Standard;Boleto;28
+228;2022-10-05;39;F;Nunes;Básico;Cartão de Crédito;26
+229;2024-01-17;58;M;Melo;Básico;PayPal;18
+230;2023-10-11;30;F;Rios;Premium;Boleto;34
+231;2021-10-11;34;F;Pires de Macedo;Básico;PayPal;1
+232;2024-03-07;52;M;Sousa;Básico;PayPal;28
+233;2022-12-06;24;M;da Rocha de Minas;Básico;Cartão de Crédito;27
+234;2022-02-02;21;M;da Rosa;Premium;Cartão de Crédito;15
+235;2023-01-02;27;F;Pires;Standard;Boleto;1
+236;2024-05-28;43;M;Correia Alegre;Standard;PayPal;14
+237;2023-07-05;44;M;Cardoso;Standard;PayPal;32
+238;2022-01-22;37;F;Fonseca dos Dourados;Básico;Boleto;10
+239;2022-09-15;25;M;da Conceição;Premium;Boleto;34
+240;2022-08-15;25;M;Abreu;Premium;Cartão de Crédito;23
+241;2022-11-03;61;F;Casa Grande do Amparo;Básico;Boleto;14
+242;2024-03-27;19;F;Aragão do Sul;Premium;Boleto;11
+243;2023-03-16;60;F;Leão;Básico;PayPal;7
+244;2023-06-22;45;M;Gomes;Standard;Boleto;10
+245;2022-07-27;26;F;Cassiano de Caldeira;Premium;Cartão de Crédito;12
+246;2022-08-30;47;F;da Mata;Premium;Boleto;16
+247;2021-12-19;51;M;Borges;Standard;PayPal;35
+248;2023-01-08;45;F;Ramos Grande;Standard;Boleto;4
+249;2022-06-07;52;F;Aragão;Básico;PayPal;6
+250;2021-07-16;58;F;Cunha;Standard;Cartão de Crédito;27
+251;2023-08-13;59;F;Siqueira;Premium;Boleto;28
+252;2022-09-15;19;F;Moreira do Sul;Standard;Cartão de Crédito;23
+253;2022-11-12;37;M;Oliveira;Básico;Cartão de Crédito;26
+254;2021-09-13;31;F;da Cruz dos Dourados;Básico;Boleto;1
+255;2023-12-19;70;M;Cassiano;Básico;PayPal;15
+256;2024-02-24;58;F;Carvalho;Premium;PayPal;34
+257;2022-08-28;64;M;Vargas da Praia;Standard;Boleto;35
+258;2023-10-16;67;M;Leão;Standard;Cartão de Crédito;9
+259;2023-12-14;25;F;da Cruz;Premium;Boleto;30
+260;2023-01-23;70;M;Pereira;Básico;Cartão de Crédito;15
+261;2023-05-28;18;F;Rios de Minas;Premium;Cartão de Crédito;10
+262;2024-05-12;39;F;Ramos;Premium;Boleto;16
+263;2024-02-13;39;M;Carvalho;Premium;Boleto;21
+264;2022-06-13;53;M;Caldeira da Serra;Básico;Cartão de Crédito;28
+265;2024-04-06;22;M;Gonçalves do Norte;Standard;Cartão de Crédito;10
+266;2023-03-23;66;M;Rezende da Prata;Premium;Cartão de Crédito;16
+267;2022-08-07;37;F;Porto das Flores;Básico;PayPal;9
+268;2022-07-05;51;F;Cavalcante da Serra;Premium;PayPal;10
+269;2021-11-03;70;F;Brito;Premium;Boleto;19
+270;2022-12-11;25;M;Cavalcanti do Galho;Standard;Cartão de Crédito;6
+271;2022-04-10;22;F;Rodrigues;Standard;Cartão de Crédito;11
+272;2023-06-07;35;F;Moura;Standard;PayPal;8
+273;2023-12-20;18;M;Aragão;Básico;Boleto;16
+274;2021-10-17;39;M;Sousa de Vieira;Standard;PayPal;5
+275;2024-05-10;46;F;Rodrigues;Standard;PayPal;35
+276;2022-03-25;51;F;Pacheco;Básico;PayPal;23
+277;2021-11-05;32;F;Cassiano;Premium;Boleto;13
+278;2022-11-11;62;F;Mendes;Standard;Boleto;16
+279;2023-07-10;38;M;das Neves;Standard;Cartão de Crédito;11
+280;2023-02-17;58;M;Moraes de Pereira;Premium;Cartão de Crédito;9
+281;2023-05-07;37;F;Nogueira de da Costa;Standard;PayPal;29
+282;2022-02-12;35;F;Cavalcante do Amparo;Básico;Cartão de Crédito;36
+283;2022-11-07;62;F;Pereira do Galho;Standard;PayPal;25
+284;2023-05-10;69;M;Garcia;Standard;Cartão de Crédito;34
+285;2023-09-22;33;M;Viana;Standard;Cartão de Crédito;26
+286;2023-07-04;33;M;Gonçalves de Gonçalves;Standard;PayPal;13
+287;2023-09-05;67;F;Leão Verde;Básico;Boleto;6
+288;2022-07-01;55;M;da Luz da Praia;Básico;Cartão de Crédito;7
+289;2023-07-21;37;F;Moreira do Oeste;Standard;Cartão de Crédito;36
+290;2024-05-25;49;F;Marques dos Dourados;Premium;PayPal;4
+291;2023-05-19;34;F;Duarte;Premium;Boleto;16
+292;2023-10-08;47;F;das Neves de Mendonça;Standard;Cartão de Crédito;25
+293;2023-01-04;26;F;Nunes;Premium;PayPal;7
+294;2023-11-13;55;M;Rodrigues;Premium;PayPal;36
+295;2023-12-03;20;M;Vasconcelos;Básico;Boleto;32
+296;2021-09-02;52;M;Aparecida;Standard;Boleto;9
+297;2022-10-25;58;M;Pires;Premium;Cartão de Crédito;16
+298;2021-10-14;62;F;Araújo;Standard;PayPal;12
+299;2023-11-03;52;M;Ferreira de da Cruz;Premium;PayPal;22
+300;2024-05-02;43;M;Camargo;Standard;Cartão de Crédito;7
+301;2023-02-16;54;F;Cardoso;Premium;Boleto;1
+302;2023-11-30;29;M;Teixeira;Básico;Boleto;27
+303;2022-11-20;65;M;Brito da Praia;Standard;Cartão de Crédito;28
+304;2021-08-30;42;M;da Mata;Standard;PayPal;29
+305;2023-07-15;43;F;Fonseca;Standard;Boleto;20
+306;2021-07-27;19;M;Novaes Verde;Standard;Cartão de Crédito;5
+307;2022-10-02;53;M;da Conceição;Premium;Cartão de Crédito;20
+308;2024-03-30;21;M;Albuquerque de Nascimento;Básico;Boleto;20
+309;2024-05-31;35;F;Cassiano de Almeida;Básico;Cartão de Crédito;5
+310;2023-06-24;36;M;Caldeira de Nascimento;Básico;Boleto;22
+311;2024-03-05;35;F;Abreu;Básico;Boleto;6
+312;2023-06-29;20;M;Azevedo das Pedras;Premium;Cartão de Crédito;12
+313;2023-06-29;25;F;Campos da Mata;Standard;Cartão de Crédito;25
+314;2021-12-12;66;F;Lopes;Básico;Boleto;21
+315;2022-03-08;30;M;Pinto;Premium;Boleto;10
+316;2022-12-03;64;M;da Mota da Praia;Básico;Cartão de Crédito;8
+317;2024-02-13;26;M;Ramos;Básico;Cartão de Crédito;35
+318;2021-07-15;46;F;Alves;Premium;PayPal;20
+319;2021-09-03;55;M;Pereira;Standard;Cartão de Crédito;15
+320;2024-03-01;23;F;Siqueira;Standard;Boleto;13
+321;2022-04-01;62;M;Rezende das Flores;Básico;Cartão de Crédito;10
+322;2021-11-04;63;M;Cassiano do Amparo;Premium;PayPal;4
+323;2022-09-12;40;F;da Mata;Básico;Boleto;11
+324;2024-02-03;62;F;Câmara de Brito;Standard;Boleto;15
+325;2024-02-13;68;F;da Conceição Verde;Standard;Cartão de Crédito;29
+326;2023-03-27;51;M;Ramos;Standard;Cartão de Crédito;14
+327;2021-08-01;23;F;Casa Grande;Premium;PayPal;25
+328;2023-04-14;22;F;Castro;Premium;Boleto;28
+329;2023-12-26;62;M;Rios;Standard;Cartão de Crédito;23
+330;2023-01-02;52;M;Barbosa do Galho;Básico;Cartão de Crédito;15
+331;2024-05-03;49;M;Abreu de Jesus;Premium;Cartão de Crédito;32
+332;2022-11-09;21;F;Araújo;Standard;Boleto;30
+333;2022-05-26;47;F;Melo;Premium;Boleto;1
+334;2023-04-06;63;F;Farias do Campo;Premium;Boleto;27
+335;2023-10-10;43;F;Cassiano;Básico;Cartão de Crédito;21
+336;2024-03-25;31;M;da Costa;Standard;PayPal;3
+337;2024-06-28;28;M;Novaes dos Dourados;Standard;Boleto;2
+338;2024-05-14;57;F;Siqueira dos Dourados;Premium;Boleto;21
+339;2022-08-23;64;M;Silva;Premium;PayPal;1
+340;2021-09-09;23;F;Moura;Standard;Boleto;16
+341;2023-01-24;49;M;Macedo de Farias;Standard;Cartão de Crédito;12
+342;2021-09-24;45;M;Sales de Pacheco;Básico;Boleto;27
+343;2023-05-24;19;M;Rodrigues;Básico;Cartão de Crédito;36
+344;2022-02-11;59;F;Guerra dos Dourados;Básico;Boleto;19
+345;2022-07-17;48;F;Caldeira;Básico;Cartão de Crédito;19
+346;2023-06-18;25;M;Novais Paulista;Premium;PayPal;30
+347;2022-06-15;45;F;Guerra;Premium;Boleto;20
+348;2023-01-21;19;F;Cassiano;Standard;PayPal;35
+349;2024-05-19;57;M;Rodrigues de Barros;Standard;PayPal;25
+350;2023-03-29;41;M;Pires de Lopes;Standard;PayPal;21
+351;2023-12-21;33;F;Cardoso do Campo;Básico;Cartão de Crédito;36
+352;2022-05-20;21;F;Pacheco;Básico;Cartão de Crédito;36
+353;2023-09-28;68;F;da Mota;Standard;PayPal;13
+354;2023-05-07;45;F;da Paz do Amparo;Standard;Cartão de Crédito;19
+355;2023-09-25;50;F;Freitas de Borges;Standard;PayPal;24
+356;2023-01-31;40;M;Ribeiro;Standard;Boleto;29
+357;2022-04-07;37;F;Borges;Básico;Boleto;12
+358;2023-10-25;56;M;Viana;Básico;PayPal;35
+359;2024-05-23;39;F;Cassiano;Premium;PayPal;25
+360;2023-03-16;25;F;da Cruz;Standard;Boleto;26
+361;2023-04-05;22;M;Farias da Mata;Básico;Cartão de Crédito;34
+362;2023-02-21;64;F;Brito;Básico;Cartão de Crédito;27
+363;2023-10-18;62;M;Almeida;Standard;Cartão de Crédito;14
+364;2024-01-21;49;F;Duarte;Premium;Cartão de Crédito;27
+365;2023-07-28;39;M;da Cruz das Pedras;Standard;PayPal;27
+366;2022-10-18;52;M;Santos de Novais;Premium;Cartão de Crédito;7
+367;2022-07-15;64;M;Casa Grande da Mata;Básico;PayPal;32
+368;2023-11-28;46;M;Garcia de Ribeiro;Premium;Boleto;26
+369;2023-06-13;67;M;Nogueira;Premium;Boleto;35
+370;2023-01-08;31;M;Melo;Premium;PayPal;25
+371;2023-08-27;57;F;Mendes da Mata;Básico;Cartão de Crédito;4
+372;2022-07-12;54;F;Dias;Básico;Cartão de Crédito;3
+373;2022-07-05;67;F;Peixoto;Premium;Boleto;18
+374;2022-11-07;68;M;Abreu;Premium;Boleto;35
+375;2021-08-19;34;M;Ferreira de da Cunha;Básico;Cartão de Crédito;31
+376;2023-03-23;27;F;Marques;Básico;PayPal;14
+377;2022-10-23;26;F;Araújo da Praia;Standard;Boleto;17
+378;2022-04-02;63;M;Aparecida do Amparo;Standard;Cartão de Crédito;36
+379;2024-05-17;26;M;Caldeira;Básico;Cartão de Crédito;35
+380;2023-04-29;23;M;Albuquerque de Cassiano;Premium;Cartão de Crédito;1
+381;2021-10-25;52;F;Teixeira;Premium;PayPal;10
+382;2024-05-15;24;F;Moraes de Nunes;Premium;PayPal;23
+383;2024-05-21;62;M;da Cunha das Pedras;Básico;Cartão de Crédito;29
+384;2024-05-30;51;F;Câmara;Standard;Cartão de Crédito;7
+385;2024-04-08;18;F;Andrade;Premium;Boleto;10
+386;2021-10-19;37;F;da Mata de Pires;Standard;PayPal;32
+387;2023-07-10;64;F;Novaes Grande;Básico;Cartão de Crédito;25
+388;2022-08-25;18;F;Ferreira;Premium;Boleto;22
+389;2021-12-07;47;F;Vieira;Básico;PayPal;15
+390;2022-01-16;37;M;Ferreira Verde;Premium;Boleto;35
+391;2022-03-12;61;F;Novais;Básico;Boleto;15
+392;2022-10-12;41;M;da Rosa Paulista;Básico;Cartão de Crédito;27
+393;2024-03-03;24;M;Correia;Standard;PayPal;4
+394;2021-10-21;50;F;da Mata;Básico;PayPal;34
+395;2023-02-03;20;M;Gomes;Premium;PayPal;8
+396;2023-07-08;42;M;Pacheco;Premium;PayPal;22
+397;2021-08-02;35;M;Pacheco do Oeste;Standard;Cartão de Crédito;25
+398;2022-05-18;47;F;Martins;Premium;Cartão de Crédito;36
+399;2022-07-16;25;M;Campos;Standard;Cartão de Crédito;10
+400;2024-04-16;23;M;Viana Alegre;Standard;Cartão de Crédito;8
+401;2021-12-06;65;M;Pastor Paulista;Premium;PayPal;35
+402;2022-04-12;26;F;Pereira do Oeste;Standard;Boleto;33
+403;2023-05-19;37;F;Rocha de da Mata;Standard;PayPal;16
+404;2024-01-21;64;M;da Mota do Sul;Premium;Boleto;36
+405;2022-01-22;41;M;Gomes de Goiás;Básico;Boleto;29
+406;2022-03-15;26;M;Cirino;Standard;Boleto;27
+407;2023-09-10;59;M;Dias da Mata;Básico;Boleto;9
+408;2023-07-05;64;M;Leão de Sampaio;Premium;PayPal;4
+409;2022-12-12;59;F;Cardoso;Standard;PayPal;27
+410;2024-01-25;52;M;Araújo;Premium;Cartão de Crédito;32
+411;2022-05-05;43;F;Duarte do Amparo;Standard;Boleto;36
+412;2023-11-21;47;M;Andrade Alegre;Standard;Boleto;6
+413;2023-04-09;57;M;Guerra;Standard;Cartão de Crédito;4
+414;2024-01-07;60;F;Abreu de Goiás;Standard;PayPal;13
+415;2022-02-24;22;F;Novais de Freitas;Premium;Cartão de Crédito;23
+416;2023-07-31;54;M;Cirino dos Dourados;Premium;PayPal;8
+417;2023-07-11;26;M;Freitas do Galho;Standard;PayPal;29
+418;2023-09-21;48;M;das Neves das Pedras;Básico;Cartão de Crédito;6
+419;2022-01-03;29;F;Cavalcanti;Standard;Cartão de Crédito;9
+420;2023-09-30;46;M;Barbosa dos Dourados;Básico;Cartão de Crédito;1
+421;2022-03-11;49;F;Sá;Básico;PayPal;29
+422;2022-09-08;45;M;Novais;Premium;Cartão de Crédito;1
+423;2023-10-21;36;M;Silveira de Goiás;Standard;PayPal;8
+424;2022-07-30;60;F;Viana de Viana;Standard;Boleto;10
+425;2024-03-04;52;F;Montenegro de Goiás;Premium;Cartão de Crédito;6
+426;2022-12-07;20;M;Araújo de Minas;Premium;Boleto;16
+427;2022-08-04;38;M;Brito de Silveira;Básico;Boleto;25
+428;2022-03-17;20;F;Cassiano;Standard;PayPal;36
+429;2023-04-05;45;M;Pastor da Prata;Básico;Cartão de Crédito;6
+430;2023-11-10;31;F;Pinto;Standard;PayPal;16
+431;2023-07-27;48;M;Nunes;Standard;Boleto;24
+432;2022-01-18;58;M;Mendes de Goiás;Básico;Cartão de Crédito;15
+433;2022-02-14;40;F;Aragão das Flores;Básico;Boleto;5
+434;2021-09-15;45;F;Lima da Mata;Básico;PayPal;35
+435;2021-10-24;46;M;Almeida;Premium;Cartão de Crédito;13
+436;2023-09-28;30;M;Mendonça;Standard;Cartão de Crédito;28
+437;2021-08-23;50;F;Guerra;Standard;PayPal;9
+438;2021-08-02;37;M;da Mata;Premium;Cartão de Crédito;26
+439;2021-12-13;19;M;Silveira;Premium;PayPal;1
+440;2023-08-05;53;M;Ribeiro;Standard;PayPal;27
+441;2022-05-05;43;F;Viana do Campo;Standard;Cartão de Crédito;34
+442;2021-11-21;63;M;Alves do Oeste;Premium;Cartão de Crédito;15
+443;2022-12-22;32;F;Cavalcante das Pedras;Premium;Boleto;5
+444;2022-08-26;42;F;Oliveira de da Conceição;Premium;PayPal;8
+445;2021-11-26;61;M;Casa Grande;Standard;Boleto;31
+446;2024-03-31;47;F;Vieira;Básico;Cartão de Crédito;24
+447;2023-09-06;51;F;Monteiro do Amparo;Standard;Boleto;15
+448;2024-02-29;41;M;Araújo;Básico;PayPal;7
+449;2022-06-05;56;M;da Paz da Serra;Premium;PayPal;33
+450;2024-01-07;30;F;Cavalcante;Premium;PayPal;14
+451;2022-04-30;64;F;Leão de Borges;Básico;Boleto;16
+452;2023-05-25;25;F;Azevedo do Amparo;Standard;PayPal;5
+453;2023-09-21;41;F;Macedo do Norte;Standard;PayPal;11
+454;2024-02-23;63;M;Castro;Básico;PayPal;26
+455;2021-09-29;68;F;Oliveira de Minas;Básico;PayPal;23
+456;2023-03-28;39;F;Caldeira;Standard;Cartão de Crédito;23
+457;2023-12-18;20;M;Viana;Premium;Cartão de Crédito;11
+458;2022-01-01;67;F;Cardoso;Premium;Cartão de Crédito;19
+459;2022-03-25;47;M;Araújo;Básico;Boleto;2
+460;2023-10-17;38;M;Martins;Premium;Boleto;35
+461;2024-02-28;19;F;Castro do Amparo;Premium;PayPal;29
+462;2023-10-24;36;M;Silveira da Prata;Standard;Boleto;14
+463;2022-06-06;54;M;Brito;Básico;PayPal;3
+464;2023-09-28;33;M;da Cunha do Norte;Standard;Cartão de Crédito;13
+465;2023-08-28;51;F;Câmara;Básico;PayPal;36
+466;2023-02-23;68;M;Jesus;Standard;PayPal;8
+467;2022-01-31;53;M;Marques;Standard;Cartão de Crédito;12
+468;2023-11-10;23;F;Ribeiro;Premium;Boleto;1
+469;2021-12-10;45;F;Sales das Pedras;Básico;Boleto;16
+470;2023-07-17;32;F;Oliveira de Andrade;Standard;Boleto;10
+471;2023-01-03;57;M;Cunha;Standard;PayPal;20
+472;2024-06-21;55;M;Costela;Premium;Boleto;7
+473;2023-07-23;36;F;Sá do Sul;Básico;Cartão de Crédito;11
+474;2022-08-01;28;M;Vasconcelos do Sul;Premium;Cartão de Crédito;6
+475;2022-08-24;33;F;Andrade;Standard;Cartão de Crédito;33
+476;2024-01-27;48;F;Guerra do Galho;Básico;Boleto;18
+477;2023-09-07;42;F;Camargo de Pires;Premium;Cartão de Crédito;13
+478;2023-01-09;30;M;Marques da Serra;Básico;Cartão de Crédito;30
+479;2024-06-05;41;M;Rodrigues;Básico;PayPal;25
+480;2023-04-21;35;M;Aragão;Premium;Cartão de Crédito;23
+481;2022-12-14;60;M;Souza da Mata;Básico;PayPal;4
+482;2023-08-10;66;F;Brito;Premium;PayPal;16
+483;2022-02-18;51;F;Gonçalves;Standard;Cartão de Crédito;10
+484;2023-11-27;54;M;Peixoto de Sousa;Premium;Boleto;32
+485;2023-08-27;40;M;Nogueira das Pedras;Premium;Cartão de Crédito;26
+486;2023-10-13;32;F;Garcia de Vargas;Premium;Boleto;17
+487;2024-06-29;27;M;Gomes;Standard;Boleto;29
+488;2022-04-21;34;M;Moraes;Standard;Boleto;31
+489;2023-01-03;66;F;Martins;Premium;Boleto;23
+490;2023-10-17;54;F;Araújo;Básico;Boleto;18
+491;2023-02-16;60;M;Silva da Serra;Standard;PayPal;24
+492;2022-06-20;28;F;Silveira do Galho;Premium;PayPal;23
+493;2022-01-04;47;F;Aragão Alegre;Standard;Boleto;17
+494;2023-10-18;30;M;Rodrigues;Standard;PayPal;8
+495;2022-02-01;32;F;da Mata;Standard;PayPal;34
+496;2022-05-02;48;F;Alves de Barros;Básico;Cartão de Crédito;27
+497;2021-09-05;40;F;Martins da Prata;Básico;Cartão de Crédito;36
+498;2022-12-29;22;M;Ribeiro;Standard;Boleto;13
+499;2022-09-28;37;M;Aparecida Verde;Premium;PayPal;6
+500;2022-04-09;68;F;da Paz da Praia;Básico;PayPal;24
+501;2023-12-18;43;F;Sá de Borges;Standard;Cartão de Crédito;31
+502;2024-03-11;24;M;Azevedo;Básico;Cartão de Crédito;9
+503;2022-02-14;65;M;Ferreira de Jesus;Standard;Cartão de Crédito;29
+504;2023-05-13;67;F;Moura de Garcia;Premium;PayPal;18
+505;2023-10-21;48;F;da Mata;Básico;Cartão de Crédito;7
+506;2021-08-14;21;F;da Mata;Básico;Boleto;2
+507;2021-08-16;51;M;Cassiano da Mata;Premium;Boleto;10
+508;2024-04-29;60;M;da Mota de da Luz;Premium;PayPal;32
+509;2023-02-13;23;M;Garcia do Campo;Básico;Cartão de Crédito;17
+510;2022-05-16;36;M;Cunha;Premium;PayPal;27
+511;2022-03-20;64;M;Barros do Amparo;Básico;Cartão de Crédito;30
+512;2023-11-09;70;M;Freitas;Premium;PayPal;35
+513;2022-04-27;59;M;Duarte de Monteiro;Básico;Cartão de Crédito;14
+514;2023-07-23;29;M;Lima;Básico;Boleto;7
+515;2023-05-18;65;M;Novaes;Standard;Cartão de Crédito;19
+516;2021-11-16;34;F;da Luz;Standard;Boleto;32
+517;2023-01-05;42;M;Araújo;Standard;Cartão de Crédito;9
+518;2022-02-16;20;F;das Neves;Standard;Cartão de Crédito;32
+519;2023-08-13;67;M;da Costa;Standard;Boleto;6
+520;2021-07-14;45;M;Gomes;Básico;Cartão de Crédito;12
+521;2021-08-15;51;M;Rocha;Standard;PayPal;11
+522;2021-09-01;29;F;Montenegro do Sul;Básico;Boleto;28
+523;2022-12-13;57;F;Sampaio de Duarte;Standard;Cartão de Crédito;13
+524;2022-04-28;51;M;da Rocha do Sul;Básico;Boleto;32
+525;2024-01-30;30;M;da Luz;Premium;PayPal;1
+526;2024-05-29;20;M;da Luz;Standard;Boleto;8
+527;2022-03-29;43;M;Machado;Standard;Cartão de Crédito;6
+528;2022-11-16;33;M;Ferreira;Premium;PayPal;22
+529;2022-07-17;44;F;da Mata;Standard;Boleto;27
+530;2022-07-18;53;M;da Cunha;Standard;PayPal;12
+531;2022-12-17;25;M;Carvalho;Básico;Boleto;33
+532;2022-07-27;22;F;Lima;Standard;Cartão de Crédito;9
+533;2022-07-13;36;F;Jesus da Mata;Standard;Boleto;9
+534;2022-07-26;66;F;Casa Grande;Premium;Boleto;16
+535;2024-06-07;46;F;Macedo do Oeste;Premium;PayPal;25
+536;2024-03-23;31;M;Borges;Premium;Boleto;3
+537;2022-01-19;52;M;da Costa;Premium;PayPal;19
+538;2023-04-14;41;F;Souza;Premium;Boleto;4
+539;2022-08-30;63;F;Silva;Básico;Cartão de Crédito;22
+540;2022-09-21;33;M;Rocha dos Dourados;Premium;Cartão de Crédito;1
+541;2023-11-09;27;M;da Cunha de Sousa;Premium;Boleto;27
+542;2022-08-20;59;F;Vieira;Standard;Cartão de Crédito;33
+543;2024-06-25;52;M;Pimenta;Standard;Boleto;8
+544;2022-03-16;62;M;Siqueira dos Dourados;Premium;Cartão de Crédito;14
+545;2023-12-22;53;F;Barros;Standard;Cartão de Crédito;31
+546;2024-01-20;56;M;Moraes;Premium;Boleto;2
+547;2023-05-07;50;M;Lopes;Standard;Boleto;33
+548;2022-01-16;18;M;Carvalho;Básico;Cartão de Crédito;29
+549;2022-10-30;40;F;Guerra;Básico;Cartão de Crédito;13
+550;2024-04-21;40;F;Machado Grande;Premium;PayPal;26
+551;2023-04-29;19;M;Camargo das Pedras;Básico;Boleto;34
+552;2023-02-13;23;F;Gomes;Standard;PayPal;10
+553;2023-11-25;31;M;Costa de Melo;Premium;Boleto;33
+554;2023-08-29;22;M;Souza do Campo;Básico;Cartão de Crédito;15
+555;2022-01-12;38;M;Costa;Básico;PayPal;32
+556;2021-11-22;51;M;Moura de Santos;Básico;PayPal;1
+557;2023-02-12;35;F;Fernandes de Caldeira;Premium;Cartão de Crédito;21
+558;2024-05-23;63;F;da Conceição de Almeida;Standard;Cartão de Crédito;16
+559;2024-05-17;39;F;da Conceição;Básico;Cartão de Crédito;28
+560;2022-03-07;48;M;Moura da Serra;Standard;Boleto;4
+561;2022-11-24;34;M;Martins;Premium;Boleto;10
+562;2022-10-10;29;F;Caldeira Grande;Premium;PayPal;24
+563;2023-03-24;20;F;Andrade de Freitas;Premium;Cartão de Crédito;6
+564;2022-09-14;51;M;Sá do Sul;Premium;PayPal;6
+565;2022-08-04;22;F;Teixeira de Marques;Básico;Boleto;10
+566;2021-07-20;56;M;Nunes;Básico;PayPal;26
+567;2022-12-04;47;M;da Rocha de Silva;Básico;Boleto;31
+568;2023-01-05;65;M;da Cruz do Campo;Standard;PayPal;29
+569;2023-06-13;62;F;Santos;Básico;PayPal;16
+570;2023-09-01;44;M;Silva Paulista;Premium;Boleto;15
+571;2022-05-31;60;M;Mendes;Standard;PayPal;34
+572;2022-08-23;41;F;Porto do Norte;Premium;Boleto;8
+573;2023-03-25;18;F;Gonçalves;Premium;Boleto;30
+574;2021-07-18;31;F;Moraes do Galho;Premium;PayPal;20
+575;2023-07-03;41;F;Cunha das Flores;Standard;Boleto;32
+576;2023-07-20;36;F;Vasconcelos do Sul;Standard;PayPal;11
+577;2022-04-13;45;F;Ramos;Standard;PayPal;26
+578;2022-05-10;54;F;Melo da Praia;Premium;PayPal;3
+579;2023-11-16;27;F;da Mata;Premium;Cartão de Crédito;36
+580;2023-08-04;39;M;Barbosa;Standard;PayPal;27
+581;2023-03-25;28;F;Costa;Standard;Cartão de Crédito;20
+582;2023-06-07;30;M;Araújo da Prata;Básico;Cartão de Crédito;13
+583;2023-07-14;41;F;Rios;Standard;Cartão de Crédito;21
+584;2023-05-29;68;F;Albuquerque Grande;Standard;Cartão de Crédito;18
+585;2022-04-22;45;M;Correia;Standard;Cartão de Crédito;8
+586;2023-07-11;38;F;Rios Grande;Básico;Cartão de Crédito;33
+587;2022-05-17;68;F;Rocha do Amparo;Premium;PayPal;34
+588;2024-02-01;33;M;Lopes;Premium;Boleto;7
+589;2022-10-15;59;F;Aragão do Campo;Standard;Boleto;21
+590;2023-04-07;54;M;Sá das Pedras;Premium;PayPal;8
+591;2021-12-09;66;F;Ramos das Flores;Básico;PayPal;25
+592;2022-05-05;55;F;Moraes de Barros;Premium;Cartão de Crédito;7
+593;2024-02-18;66;M;Nogueira;Básico;PayPal;7
+594;2024-02-27;69;F;Ramos;Premium;Boleto;29
+595;2024-02-14;50;F;da Cruz;Premium;Boleto;30
+596;2024-07-01;44;F;Mendes;Premium;PayPal;14
+597;2024-04-07;55;F;Duarte Alegre;Standard;Cartão de Crédito;9
+598;2024-06-10;62;F;Rezende;Premium;PayPal;31
+599;2022-08-08;69;M;Rezende;Básico;Boleto;4
+600;2022-01-07;43;F;Dias de Goiás;Premium;Boleto;11
+601;2022-12-15;45;F;Cunha;Básico;PayPal;14
+602;2023-03-08;65;M;Jesus;Básico;Boleto;33
+603;2023-02-05;44;M;da Costa;Premium;Cartão de Crédito;25
+604;2023-07-15;25;F;Campos Alegre;Standard;PayPal;34
+605;2023-07-18;66;F;Ramos;Básico;Boleto;14
+606;2022-04-29;33;F;Costela da Serra;Básico;Cartão de Crédito;27
+607;2023-03-11;62;M;Martins da Prata;Standard;Boleto;34
+608;2022-05-04;62;M;Montenegro de Carvalho;Básico;Boleto;22
+609;2023-08-29;69;M;Almeida da Serra;Básico;PayPal;26
+610;2021-08-17;55;M;Leão;Standard;Boleto;2
+611;2024-02-26;34;M;Barbosa Alegre;Standard;Boleto;33
+612;2024-01-06;42;F;Andrade Alegre;Premium;Cartão de Crédito;35
+613;2023-04-17;50;M;da Mata;Standard;Cartão de Crédito;23
+614;2023-11-11;44;F;Correia;Premium;Boleto;16
+615;2021-08-23;35;M;da Luz de Albuquerque;Standard;Boleto;12
+616;2021-11-15;49;F;Sousa do Norte;Básico;Boleto;30
+617;2024-03-25;59;M;da Cruz Grande;Premium;PayPal;12
+618;2023-11-16;66;F;Martins;Standard;Cartão de Crédito;27
+619;2023-08-29;45;F;Camargo Paulista;Básico;Boleto;31
+620;2024-01-29;41;M;Novais;Premium;Cartão de Crédito;11
+621;2022-09-02;62;F;Garcia;Básico;Cartão de Crédito;5
+622;2024-05-26;46;F;Leão;Premium;Cartão de Crédito;3
+623;2022-12-19;49;F;Melo da Serra;Básico;Cartão de Crédito;2
+624;2023-07-24;24;M;Costela;Standard;PayPal;31
+625;2021-07-14;49;M;Martins;Standard;Boleto;28
+626;2024-06-08;22;F;Farias de Martins;Standard;PayPal;1
+627;2023-12-24;38;F;Aparecida;Premium;PayPal;33
+628;2023-04-27;33;F;Castro do Norte;Premium;Boleto;29
+629;2023-11-02;50;F;da Mota de Minas;Standard;PayPal;11
+630;2021-07-22;38;M;Moraes de Porto;Básico;Cartão de Crédito;3
+631;2021-12-11;62;F;Pires;Premium;Cartão de Crédito;26
+632;2023-09-30;55;M;da Cunha do Sul;Premium;Boleto;23
+633;2024-02-26;44;F;Silva da Praia;Premium;Cartão de Crédito;26
+634;2023-01-05;70;F;Pereira de Cardoso;Premium;Cartão de Crédito;28
+635;2022-12-21;70;M;Novaes de Aragão;Standard;Cartão de Crédito;1
+636;2022-09-02;60;M;da Mata das Flores;Standard;Cartão de Crédito;15
+637;2023-11-23;57;F;Fernandes da Praia;Premium;Cartão de Crédito;14
+638;2022-07-30;24;F;da Cruz;Básico;Boleto;36
+639;2024-06-04;52;M;Leão;Premium;Cartão de Crédito;18
+640;2024-03-09;70;F;Macedo dos Dourados;Standard;Cartão de Crédito;2
+641;2023-06-16;59;M;Rocha;Premium;PayPal;34
+642;2023-03-26;58;F;Fogaça Grande;Básico;PayPal;18
+643;2021-07-22;40;M;Rocha do Oeste;Básico;Boleto;16
+644;2022-03-24;52;M;Leão Grande;Básico;PayPal;2
+645;2022-09-19;65;F;da Conceição de Câmara;Básico;Boleto;32
+646;2021-08-18;61;F;Sales Paulista;Standard;Cartão de Crédito;21
+647;2023-11-14;56;M;Andrade do Amparo;Standard;PayPal;22
+648;2023-01-25;60;F;Vasconcelos;Standard;Cartão de Crédito;4
+649;2023-12-24;20;M;Costa;Premium;Boleto;30
+650;2024-02-29;35;M;Macedo;Premium;Boleto;25
+651;2021-09-09;31;F;da Mota;Premium;PayPal;16
+652;2024-02-09;49;M;Siqueira;Básico;PayPal;18
+653;2022-06-05;29;M;Vasconcelos;Standard;Boleto;26
+654;2023-05-21;54;F;Barbosa de Goiás;Básico;Cartão de Crédito;30
+655;2023-08-10;48;M;Fogaça Alegre;Premium;Boleto;26
+656;2021-11-21;51;M;Alves Alegre;Premium;PayPal;24
+657;2024-05-12;67;F;Lopes;Básico;Cartão de Crédito;14
+658;2022-12-27;44;F;Costela de Minas;Básico;PayPal;20
+659;2022-07-18;52;M;Casa Grande;Standard;Boleto;25
+660;2021-09-04;34;F;Teixeira;Standard;Boleto;4
+661;2023-09-14;21;M;Rezende;Básico;Cartão de Crédito;8
+662;2023-06-05;49;M;Pereira de Minas;Standard;Boleto;8
+663;2023-06-16;44;M;Cirino de Sá;Básico;Cartão de Crédito;18
+664;2021-08-14;33;M;Melo do Galho;Standard;Cartão de Crédito;30
+665;2022-02-23;51;F;Câmara;Standard;PayPal;35
+666;2024-04-02;31;M;Borges do Norte;Básico;Boleto;1
+667;2022-07-30;32;M;Marques da Praia;Standard;PayPal;12
+668;2022-12-20;56;M;Vargas;Premium;Boleto;22
+669;2022-07-13;65;M;Rezende;Standard;PayPal;8
+670;2023-02-08;21;M;Vasconcelos;Básico;Cartão de Crédito;19
+671;2022-10-25;43;F;da Cunha;Básico;PayPal;32
+672;2022-03-17;23;F;Santos;Básico;PayPal;28
+673;2024-03-10;55;M;da Costa de Minas;Básico;Boleto;31
+674;2021-09-30;29;M;Fernandes;Premium;Boleto;11
+675;2023-04-26;43;F;Siqueira de Albuquerque;Básico;Cartão de Crédito;3
+676;2022-05-10;59;M;Leão Grande;Básico;Boleto;5
+677;2023-10-28;53;F;Moraes;Básico;Boleto;11
+678;2024-03-04;25;F;Sousa de Goiás;Premium;Boleto;35
+679;2022-09-30;40;M;Sá do Galho;Standard;Boleto;1
+680;2022-08-17;63;F;Sales das Flores;Standard;Cartão de Crédito;11
+681;2022-02-23;27;M;das Neves;Standard;PayPal;18
+682;2021-12-20;18;M;Cunha;Premium;PayPal;23
+683;2022-06-29;61;F;Carvalho das Flores;Básico;Cartão de Crédito;16
+684;2022-01-12;22;M;Ferreira da Praia;Standard;Cartão de Crédito;13
+685;2024-02-15;57;F;Cavalcante;Standard;PayPal;24
+686;2024-05-21;52;F;Lopes da Praia;Standard;PayPal;21
+687;2022-10-03;56;M;Freitas de Cirino;Básico;Cartão de Crédito;4
+688;2024-02-27;70;M;Melo dos Dourados;Básico;Boleto;11
+689;2021-09-27;65;M;Rezende;Premium;Cartão de Crédito;5
+690;2021-07-30;67;M;Melo;Premium;Cartão de Crédito;8
+691;2024-03-22;64;F;Oliveira;Standard;Boleto;33
+692;2022-08-14;70;M;Brito de Goiás;Básico;Boleto;8
+693;2024-05-01;26;F;Brito;Premium;Cartão de Crédito;25
+694;2021-08-02;37;F;Rocha dos Dourados;Básico;Cartão de Crédito;7
+695;2023-06-23;22;F;Camargo de Guerra;Básico;PayPal;18
+696;2022-06-06;67;M;Gonçalves da Prata;Básico;PayPal;18
+697;2024-02-11;26;F;da Rocha;Premium;Boleto;9
+698;2024-06-21;70;M;Borges da Mata;Premium;Cartão de Crédito;18
+699;2022-02-09;58;F;Novais de Silveira;Premium;Cartão de Crédito;7
+700;2022-09-11;24;F;Montenegro dos Dourados;Básico;Cartão de Crédito;11
+701;2024-04-07;69;F;Azevedo das Pedras;Básico;Cartão de Crédito;19
+702;2023-09-23;22;F;Rocha de Lopes;Básico;PayPal;30
+703;2021-10-03;50;M;Albuquerque de Goiás;Básico;Boleto;13
+704;2022-06-06;52;M;Monteiro dos Dourados;Premium;PayPal;13
+705;2023-05-24;33;M;Gomes;Premium;Boleto;4
+706;2021-10-20;45;F;Rios;Básico;Boleto;6
+707;2022-08-22;60;F;Nascimento dos Dourados;Premium;Cartão de Crédito;9
+708;2021-08-10;58;F;Machado;Premium;PayPal;14
+709;2024-05-26;62;F;Aparecida;Básico;Boleto;34
+710;2023-06-14;54;M;Lopes;Básico;Boleto;13
+711;2022-08-26;40;F;Cavalcante do Galho;Standard;PayPal;14
+712;2021-10-23;68;F;da Mata Grande;Básico;PayPal;1
+713;2023-11-26;28;M;Cirino do Galho;Premium;Boleto;14
+714;2023-01-25;43;F;Moura;Premium;Boleto;19
+715;2023-05-27;52;F;Guerra da Praia;Básico;Boleto;15
+716;2024-04-02;66;F;Monteiro do Campo;Standard;Cartão de Crédito;18
+717;2021-08-15;25;M;Pacheco;Standard;Cartão de Crédito;20
+718;2023-05-30;45;M;Pires da Serra;Básico;Boleto;18
+719;2022-05-06;62;M;Martins de Minas;Básico;PayPal;24
+720;2023-06-30;19;F;Vasconcelos;Premium;Boleto;7
+721;2022-07-01;61;M;Nogueira;Premium;PayPal;19
+722;2022-06-13;67;F;da Luz de Teixeira;Standard;Boleto;33
+723;2022-09-09;63;M;Abreu do Campo;Premium;Cartão de Crédito;9
+724;2022-11-28;58;F;Novais da Serra;Básico;Cartão de Crédito;1
+725;2023-01-04;59;F;Abreu de Azevedo;Básico;Boleto;3
+726;2022-11-28;47;M;Vasconcelos da Prata;Básico;PayPal;23
+727;2024-04-29;37;F;Montenegro Verde;Premium;PayPal;14
+728;2023-03-27;67;M;Rios de Fonseca;Básico;Cartão de Crédito;2
+729;2023-02-13;60;M;Mendes;Premium;Cartão de Crédito;20
+730;2024-03-09;19;F;Mendes;Standard;Cartão de Crédito;14
+731;2022-09-27;35;F;Farias do Campo;Standard;PayPal;10
+732;2024-01-17;44;M;Santos;Básico;Cartão de Crédito;21
+733;2023-07-26;44;F;Marques;Standard;PayPal;17
+734;2022-02-22;24;F;Fogaça de Moreira;Standard;PayPal;8
+735;2022-07-31;35;F;Silveira do Galho;Básico;Boleto;18
+736;2024-01-27;63;M;Cirino do Amparo;Premium;Boleto;15
+737;2023-03-05;23;M;Gonçalves;Básico;Boleto;4
+738;2024-02-15;61;M;Sá de Goiás;Standard;Cartão de Crédito;30
+739;2024-04-07;29;F;Santos Paulista;Básico;Cartão de Crédito;23
+740;2023-09-21;46;F;da Mata;Standard;PayPal;24
+741;2022-08-04;64;M;da Luz;Básico;PayPal;26
+742;2021-07-21;49;M;Porto de Caldeira;Standard;PayPal;31
+743;2021-10-26;43;F;Jesus Alegre;Premium;Boleto;25
+744;2021-10-24;63;F;Almeida de da Cruz;Básico;PayPal;23
+745;2023-04-11;55;M;Pires;Básico;Boleto;8
+746;2022-04-09;27;M;Vasconcelos Alegre;Básico;PayPal;34
+747;2022-12-19;56;F;Marques;Básico;Cartão de Crédito;22
+748;2022-08-14;31;M;Moura;Standard;Cartão de Crédito;3
+749;2023-09-25;22;M;da Cruz Paulista;Premium;PayPal;7
+750;2022-03-17;19;F;Almeida;Premium;PayPal;23
+751;2022-10-14;55;F;Costela;Premium;PayPal;8
+752;2023-01-05;53;F;Fogaça da Mata;Standard;PayPal;7
+753;2023-01-12;59;M;Souza do Amparo;Standard;Boleto;27
+754;2022-10-13;30;M;da Mota;Básico;PayPal;28
+755;2022-03-01;68;F;Oliveira Paulista;Standard;PayPal;20
+756;2022-06-01;68;M;da Luz;Standard;Boleto;8
+757;2021-09-29;56;F;Garcia;Básico;Cartão de Crédito;22
+758;2021-08-22;37;F;da Mata de da Cruz;Standard;PayPal;27
+759;2023-09-22;58;F;Carvalho;Básico;Cartão de Crédito;26
+760;2021-10-15;20;F;Castro;Básico;Boleto;14
+761;2021-12-27;25;M;Martins das Pedras;Básico;Boleto;30
+762;2024-05-25;38;F;Gonçalves;Standard;Cartão de Crédito;17
+763;2023-01-20;40;M;Sá das Flores;Premium;Boleto;10
+764;2023-09-09;47;M;Albuquerque;Premium;Cartão de Crédito;9
+765;2021-08-11;18;F;Camargo do Galho;Standard;Cartão de Crédito;7
+766;2024-04-01;25;F;Macedo do Norte;Básico;Cartão de Crédito;29
+767;2022-12-23;21;F;Nunes;Premium;Cartão de Crédito;3
+768;2021-11-01;59;M;da Cruz Paulista;Premium;Boleto;18
+769;2023-08-12;53;M;Nogueira;Premium;Boleto;23
+770;2023-03-21;50;F;Oliveira;Premium;Boleto;28
+771;2023-02-07;40;F;Araújo;Standard;PayPal;8
+772;2023-06-30;21;M;Sá de Camargo;Premium;Cartão de Crédito;8
+773;2023-05-21;64;M;Aparecida;Básico;PayPal;14
+774;2022-11-25;31;F;Aragão;Básico;Boleto;24
+775;2021-09-22;30;F;Nascimento de Souza;Básico;Boleto;34
+776;2023-06-25;38;M;Oliveira;Standard;Cartão de Crédito;33
+777;2024-04-18;47;M;Borges do Campo;Premium;Cartão de Crédito;33
+778;2023-12-11;20;F;Carvalho do Campo;Standard;Boleto;25
+779;2023-03-30;30;F;da Conceição;Básico;Boleto;25
+780;2023-05-09;38;F;da Conceição de Goiás;Premium;PayPal;10
+781;2022-03-02;27;F;Costela Verde;Standard;PayPal;4
+782;2023-06-05;21;M;das Neves;Premium;Boleto;30
+783;2022-10-25;41;M;Rezende;Premium;PayPal;28
+784;2022-01-29;49;F;Rocha;Básico;Boleto;11
+785;2021-08-20;69;M;Guerra do Norte;Standard;Cartão de Crédito;21
+786;2022-03-01;68;M;Caldeira do Galho;Básico;PayPal;29
+787;2022-12-27;30;F;da Rosa;Standard;Cartão de Crédito;3
+788;2022-05-13;64;F;Garcia de da Luz;Básico;PayPal;30
+789;2022-05-06;58;F;Casa Grande;Básico;PayPal;25
+790;2024-05-28;60;F;Cassiano;Premium;Boleto;20
+791;2023-03-31;65;M;Peixoto de Pastor;Básico;Cartão de Crédito;23
+792;2022-07-12;32;F;Nascimento;Standard;PayPal;8
+793;2023-04-16;58;F;Sales da Praia;Premium;Cartão de Crédito;23
+794;2023-08-18;25;M;Novaes;Premium;Cartão de Crédito;12
+795;2024-04-12;20;M;Andrade;Standard;Boleto;28
+796;2023-03-23;55;M;Lima;Premium;Boleto;30
+797;2022-12-20;31;M;da Luz;Standard;Cartão de Crédito;36
+798;2023-03-05;20;F;Novais do Norte;Premium;Cartão de Crédito;35
+799;2021-08-02;29;F;Costela de Câmara;Premium;Cartão de Crédito;17
+800;2022-06-24;39;M;Borges da Prata;Standard;Cartão de Crédito;29
+801;2023-11-16;41;F;da Cunha de Siqueira;Premium;Boleto;2
+802;2022-08-27;51;F;Gonçalves da Prata;Básico;Cartão de Crédito;34
+803;2022-03-20;65;F;Rezende;Standard;Boleto;6
+804;2022-11-19;63;F;Martins de Correia;Standard;Boleto;7
+805;2023-07-01;68;F;Ribeiro;Premium;Boleto;6
+806;2022-12-29;38;M;da Rosa;Básico;Cartão de Crédito;4
+807;2021-10-21;25;F;Azevedo do Campo;Básico;PayPal;19
+808;2021-11-27;29;M;Sá;Básico;Cartão de Crédito;25
+809;2022-09-02;58;F;Moraes;Premium;PayPal;26
+810;2022-01-08;39;M;Oliveira de Jesus;Premium;Boleto;26
+811;2023-06-22;34;M;Fogaça de Martins;Básico;Cartão de Crédito;30
+812;2023-05-20;28;F;Barros;Standard;PayPal;30
+813;2022-09-28;32;F;Teixeira;Básico;Cartão de Crédito;10
+814;2023-11-20;69;M;Fernandes;Básico;PayPal;31
+815;2022-07-31;52;F;Rios;Básico;PayPal;27
+816;2021-08-13;56;M;Fonseca;Premium;PayPal;2
+817;2023-02-23;22;F;Ribeiro dos Dourados;Standard;Cartão de Crédito;19
+818;2024-03-17;41;M;Viana Grande;Básico;Cartão de Crédito;2
+819;2022-01-02;55;M;Nogueira;Standard;Cartão de Crédito;8
+820;2023-09-23;64;F;Câmara de Minas;Básico;PayPal;28
+821;2022-11-14;29;F;Araújo da Mata;Básico;Boleto;17
+822;2023-07-24;70;M;Cardoso;Premium;Boleto;11
+823;2024-06-13;25;F;Farias Verde;Básico;PayPal;14
+824;2022-07-07;19;F;Silveira de Rios;Premium;Boleto;8
+825;2023-07-03;41;F;Moraes do Sul;Básico;Cartão de Crédito;4
+826;2023-06-24;70;F;Rezende de da Rocha;Premium;Cartão de Crédito;29
+827;2023-12-06;32;M;Vieira Alegre;Premium;Cartão de Crédito;9
+828;2022-06-30;29;F;da Rosa;Standard;Cartão de Crédito;2
+829;2021-11-01;45;F;Farias Grande;Básico;Cartão de Crédito;30
+830;2023-12-05;67;M;Jesus da Serra;Básico;Cartão de Crédito;19
+831;2023-08-14;18;F;Casa Grande do Galho;Básico;Cartão de Crédito;5
+832;2023-01-12;39;F;Rocha;Premium;Cartão de Crédito;4
+833;2022-04-08;63;F;Nunes;Standard;Boleto;32
+834;2024-07-11;32;M;Mendes do Sul;Standard;Cartão de Crédito;16
+835;2023-04-01;19;M;Silva dos Dourados;Standard;PayPal;30
+836;2023-07-16;21;M;Araújo;Premium;Boleto;33
+837;2023-03-21;25;M;Camargo;Premium;PayPal;32
+838;2023-07-19;50;F;da Luz do Oeste;Standard;Cartão de Crédito;6
+839;2023-09-20;63;M;Abreu de Minas;Standard;Boleto;5
+840;2023-02-02;40;M;Silveira da Prata;Standard;Boleto;21
+841;2022-02-06;54;F;da Mota;Premium;Cartão de Crédito;32
+842;2021-10-07;51;F;da Paz;Standard;PayPal;35
+843;2024-04-07;23;M;Barros;Standard;Boleto;24
+844;2021-12-27;69;M;Fogaça;Básico;Boleto;19
+845;2024-05-16;20;M;da Paz;Premium;Cartão de Crédito;23
+846;2023-02-24;56;M;Nascimento Alegre;Premium;Cartão de Crédito;10
+847;2021-12-19;18;F;Caldeira;Básico;Cartão de Crédito;9
+848;2024-04-12;53;F;Sá;Básico;PayPal;14
+849;2024-02-18;43;F;Cirino;Básico;Boleto;14
+850;2023-10-16;31;M;Siqueira;Básico;PayPal;31
+851;2023-09-11;24;M;Monteiro do Oeste;Básico;Boleto;17
+852;2023-01-04;44;M;Andrade do Sul;Básico;Boleto;30
+853;2022-02-17;63;M;Rodrigues de Moraes;Básico;PayPal;9
+854;2022-01-09;38;F;Ramos;Premium;Boleto;32
+855;2024-07-12;32;F;Dias do Sul;Standard;PayPal;19
+856;2023-04-09;28;M;Dias;Básico;Cartão de Crédito;9
+857;2024-06-17;19;M;da Rosa;Básico;PayPal;36
+858;2023-06-20;64;F;Montenegro de Goiás;Standard;Cartão de Crédito;10
+859;2023-02-19;49;F;Câmara de Goiás;Standard;Cartão de Crédito;16
+860;2022-06-18;62;F;Abreu Alegre;Premium;PayPal;27
+861;2023-09-15;64;F;Martins;Premium;PayPal;28
+862;2023-10-27;32;M;Cunha;Básico;Cartão de Crédito;12
+863;2021-07-21;35;M;Lopes;Básico;Cartão de Crédito;19
+864;2022-02-04;37;F;Caldeira;Standard;PayPal;11
+865;2024-05-31;20;M;Araújo;Básico;Cartão de Crédito;7
+866;2023-03-08;42;M;da Cruz de Abreu;Básico;Cartão de Crédito;34
+867;2022-11-13;59;F;Melo;Básico;Boleto;9
+868;2022-03-08;56;M;da Mata;Básico;PayPal;25
+869;2023-02-02;66;M;Montenegro;Standard;Boleto;9
+870;2023-10-15;70;M;Abreu;Básico;PayPal;7
+871;2021-08-15;44;M;Silva;Standard;Cartão de Crédito;4
+872;2021-10-01;56;M;Correia;Standard;PayPal;8
+873;2022-02-09;48;F;Garcia;Standard;Cartão de Crédito;9
+874;2022-07-31;54;F;Castro do Galho;Premium;PayPal;30
+875;2023-07-13;57;M;Moraes;Premium;Cartão de Crédito;21
+876;2023-09-10;48;F;Sales;Standard;Boleto;10
+877;2023-08-17;61;F;da Mota Alegre;Premium;PayPal;16
+878;2023-07-24;53;M;Fernandes;Standard;Boleto;29
+879;2022-05-24;43;M;Borges;Básico;Boleto;17
+880;2023-10-20;35;M;Fernandes;Básico;Boleto;6
+881;2023-06-16;32;M;Siqueira;Básico;Boleto;11
+882;2023-06-21;48;M;Freitas de Minas;Standard;Cartão de Crédito;36
+883;2021-07-29;22;F;Sales;Básico;Boleto;20
+884;2024-06-27;32;M;da Mata de Cunha;Básico;PayPal;35
+885;2023-11-07;46;F;Moraes;Standard;PayPal;28
+886;2024-06-15;47;F;Alves;Básico;PayPal;3
+887;2022-07-28;27;F;Vasconcelos;Premium;PayPal;4
+888;2021-11-12;34;F;Machado;Premium;Boleto;14
+889;2021-12-01;55;F;Fogaça;Básico;PayPal;22
+890;2024-07-04;55;M;Marques;Standard;Boleto;31
+891;2023-05-24;67;M;Costa;Premium;PayPal;1
+892;2023-03-14;27;F;Câmara;Standard;Boleto;17
+893;2023-01-22;29;M;Mendonça das Flores;Premium;PayPal;27
+894;2023-02-14;25;F;Guerra;Premium;Boleto;20
+895;2024-05-16;56;M;Moraes;Premium;Cartão de Crédito;28
+896;2022-02-05;67;F;Rios;Premium;Boleto;2
+897;2023-04-06;44;M;Castro de Gomes;Básico;Boleto;11
+898;2023-05-27;19;M;Moreira;Standard;Cartão de Crédito;28
+899;2021-11-21;52;F;Siqueira;Standard;Boleto;10
+900;2022-08-26;52;M;Sousa;Básico;Boleto;30
+901;2024-03-04;66;F;Caldeira dos Dourados;Premium;Cartão de Crédito;5
+902;2022-11-19;45;M;Oliveira dos Dourados;Premium;Cartão de Crédito;32
+903;2024-03-07;43;M;Silva Verde;Premium;Boleto;7
+904;2023-11-06;48;M;Albuquerque do Sul;Básico;Cartão de Crédito;12
+905;2022-09-14;43;M;Nunes;Básico;Boleto;34
+906;2022-02-01;36;F;Cunha de Azevedo;Premium;PayPal;6
+907;2024-04-08;53;M;Costela;Standard;PayPal;36
+908;2022-04-10;57;F;Pastor de Ferreira;Standard;PayPal;15
+909;2023-10-07;30;F;Aparecida Alegre;Básico;Boleto;18
+910;2021-09-04;20;F;Borges;Standard;Cartão de Crédito;7
+911;2022-03-04;64;F;Guerra;Premium;PayPal;31
+912;2024-04-01;53;M;Casa Grande do Sul;Básico;Cartão de Crédito;6
+913;2024-06-18;52;M;Costela;Básico;Boleto;15
+914;2023-01-09;26;M;Monteiro;Standard;Boleto;33
+915;2021-12-19;35;F;Silveira;Básico;Cartão de Crédito;13
+916;2021-09-20;49;M;Lima de Nascimento;Premium;Boleto;27
+917;2024-06-17;30;M;Vieira;Standard;PayPal;5
+918;2023-12-26;51;M;Duarte de Vieira;Premium;Boleto;8
+919;2024-01-07;47;F;Vargas;Standard;Boleto;29
+920;2023-04-14;43;F;Nascimento;Standard;PayPal;33
+921;2024-04-20;48;M;da Costa;Básico;Boleto;24
+922;2024-02-18;66;M;Macedo da Prata;Standard;PayPal;23
+923;2022-12-12;34;M;Borges de Cavalcante;Standard;PayPal;12
+924;2024-02-20;46;M;Pacheco de Castro;Básico;Boleto;35
+925;2022-05-17;43;F;da Rocha do Amparo;Standard;Cartão de Crédito;35
+926;2023-01-22;66;F;Marques Verde;Standard;PayPal;25
+927;2023-01-07;65;M;Marques;Básico;Cartão de Crédito;22
+928;2022-03-02;43;M;da Mota do Galho;Básico;PayPal;1
+929;2022-09-02;61;M;Cardoso;Básico;Cartão de Crédito;26
+930;2021-10-03;70;M;Melo da Mata;Standard;PayPal;28
+931;2023-09-06;26;F;Novaes da Praia;Premium;PayPal;9
+932;2023-02-10;26;M;Cunha de Costela;Básico;PayPal;18
+933;2022-03-23;54;F;Ferreira;Standard;Cartão de Crédito;24
+934;2024-01-17;70;F;Ramos das Flores;Básico;PayPal;20
+935;2023-05-05;67;F;Albuquerque;Standard;Boleto;5
+936;2024-06-19;62;F;Freitas das Pedras;Premium;Cartão de Crédito;19
+937;2022-04-25;64;F;Lima de Minas;Premium;PayPal;26
+938;2021-12-07;23;F;Cardoso Paulista;Standard;Boleto;35
+939;2023-03-14;43;F;Sá da Prata;Premium;PayPal;29
+940;2023-11-24;54;F;Nogueira;Premium;PayPal;24
+941;2023-07-31;53;M;Moraes de da Costa;Standard;PayPal;24
+942;2022-10-31;53;M;Ribeiro do Amparo;Básico;PayPal;6
+943;2024-02-06;33;M;da Cunha;Standard;Cartão de Crédito;23
+944;2023-02-21;52;M;Cirino do Amparo;Premium;PayPal;30
+945;2023-07-24;64;M;Freitas;Standard;PayPal;17
+946;2024-01-29;42;M;Garcia de Minas;Básico;Boleto;21
+947;2023-02-20;22;F;Carvalho;Básico;Cartão de Crédito;13
+948;2022-05-15;51;F;da Paz de Silva;Premium;Cartão de Crédito;10
+949;2024-01-10;23;M;Santos;Premium;Cartão de Crédito;16
+950;2023-06-23;26;F;Mendes do Oeste;Standard;Boleto;15
+951;2023-11-23;57;M;Ribeiro;Standard;Boleto;29
+952;2024-05-03;45;F;Rios das Pedras;Standard;PayPal;27
+953;2022-05-14;68;M;da Mata;Básico;Cartão de Crédito;33
+954;2023-06-05;46;M;Santos;Premium;Boleto;18
+955;2023-01-29;41;M;Fogaça Paulista;Premium;Cartão de Crédito;24
+956;2023-09-02;32;F;Cavalcanti Alegre;Premium;Cartão de Crédito;33
+957;2021-12-22;22;M;Carvalho da Serra;Standard;PayPal;12
+958;2021-08-04;22;M;Caldeira da Mata;Standard;Cartão de Crédito;6
+959;2023-07-04;62;M;Silveira;Básico;Cartão de Crédito;24
+960;2021-08-01;63;M;da Conceição Verde;Standard;PayPal;35
+961;2023-05-16;66;F;Cardoso;Básico;Boleto;11
+962;2021-08-22;35;F;Ferreira de Pastor;Premium;PayPal;21
+963;2021-08-11;37;F;Farias de Marques;Standard;PayPal;3
+964;2024-01-03;41;F;Brito da Serra;Standard;Boleto;2
+965;2022-07-30;61;F;das Neves;Premium;PayPal;7
+966;2023-04-01;69;F;Vargas;Standard;PayPal;2
+967;2023-02-06;22;M;Caldeira das Flores;Premium;PayPal;3
+968;2021-10-21;55;F;Barros;Standard;Boleto;32
+969;2022-02-04;39;M;das Neves da Mata;Standard;Cartão de Crédito;16
+970;2021-11-20;61;F;Andrade da Praia;Básico;Boleto;1
+971;2023-10-02;21;F;Cirino da Serra;Standard;Boleto;24
+972;2022-06-04;62;M;Martins;Premium;PayPal;33
+973;2023-12-29;47;F;Rezende do Galho;Básico;Boleto;13
+974;2024-05-25;26;F;Gomes;Premium;PayPal;25
+975;2023-03-08;67;M;Vieira Alegre;Premium;Cartão de Crédito;22
+976;2023-12-03;66;M;Novaes;Standard;PayPal;10
+977;2022-10-22;42;F;Silva;Básico;PayPal;12
+978;2021-11-28;30;F;da Cruz;Básico;Boleto;35
+979;2023-01-21;44;F;Souza de Guerra;Premium;Boleto;35
+980;2022-02-02;63;M;Fernandes;Standard;Boleto;21
+981;2023-09-01;67;M;Mendes;Standard;Cartão de Crédito;7
+982;2022-11-03;67;F;Monteiro;Básico;Cartão de Crédito;24
+983;2021-08-03;46;M;Andrade Paulista;Básico;Boleto;33
+984;2023-02-07;25;M;Viana da Prata;Standard;PayPal;1
+985;2023-05-20;58;M;Ferreira;Básico;PayPal;17
+986;2023-07-17;61;F;Rodrigues;Premium;Cartão de Crédito;3
+987;2022-04-22;33;F;Pimenta;Standard;PayPal;31
+988;2023-03-23;18;M;Vieira;Standard;Cartão de Crédito;32
+989;2023-02-05;59;F;Macedo do Norte;Premium;PayPal;8
+990;2022-12-13;42;F;Fonseca;Standard;Boleto;30
+991;2021-10-28;22;F;Ribeiro da Mata;Standard;PayPal;19
+992;2022-01-27;44;M;Guerra;Básico;Cartão de Crédito;11
+993;2024-03-22;65;M;Carvalho;Básico;PayPal;34
+994;2023-06-07;23;M;Guerra do Amparo;Standard;PayPal;1
+995;2022-11-10;56;M;Costa;Standard;Cartão de Crédito;22
+996;2023-02-25;41;F;Leão da Mata;Premium;Boleto;36
+997;2024-04-27;46;F;Borges;Standard;Boleto;17
+998;2022-10-25;57;F;Novais da Mata;Premium;Boleto;9
+999;2022-04-18;32;M;Ramos Grande;Standard;Cartão de Crédito;17
+1000;2021-09-20;40;F;Sousa;Básico;Boleto;29
